@@ -1,0 +1,812 @@
+{
+  "Autumn": [
+    {
+      "hue": 31.0,
+      "saturation": 1.0,
+      "brightness": 0.5,
+      "kelvin": 3500
+    },
+    {
+      "hue": 83.0,
+      "saturation": 1.0,
+      "brightness": 0.5,
+      "kelvin": 3500
+    },
+    {
+      "hue": 49.0,
+      "saturation": 1.0,
+      "brightness": 0.5,
+      "kelvin": 3500
+    },
+    {
+      "hue": 58.0,
+      "saturation": 1.0,
+      "brightness": 0.5,
+      "kelvin": 3500
+    }
+  ],
+  "Blissful": [
+    {
+      "hue": 303,
+      "saturation": 0.18,
+      "brightness": 0.82,
+      "kelvin": 3500
+    },
+    {
+      "hue": 232,
+      "saturation": 0.46,
+      "brightness": 0.53,
+      "kelvin": 3500
+    },
+    {
+      "hue": 252,
+      "saturation": 0.37,
+      "brightness": 0.69,
+      "kelvin": 3500
+    },
+    {
+      "hue": 245,
+      "saturation": 0.29,
+      "brightness": 0.81,
+      "kelvin": 3500
+    },
+    {
+      "hue": 303,
+      "saturation": 0.37,
+      "brightness": 0.18,
+      "kelvin": 3500
+    },
+    {
+      "hue": 56,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 321,
+      "saturation": 0.39,
+      "brightness": 0.78,
+      "kelvin": 3500
+    }
+  ],
+  "Cheerful": [
+    {
+      "hue": 310,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 266,
+      "saturation": 0.87,
+      "brightness": 0.47,
+      "kelvin": 3500
+    },
+    {
+      "hue": 248,
+      "saturation": 1.0,
+      "brightness": 0.6,
+      "kelvin": 3500
+    },
+    {
+      "hue": 51,
+      "saturation": 1.0,
+      "brightness": 0.67,
+      "kelvin": 3500
+    },
+    {
+      "hue": 282,
+      "saturation": 0.9,
+      "brightness": 0.67,
+      "kelvin": 3500
+    }
+  ],
+  "Dream": [
+    {
+      "hue": 201,
+      "saturation": 0.76,
+      "brightness": 0.23,
+      "kelvin": 3500
+    },
+    {
+      "hue": 183,
+      "saturation": 0.75,
+      "brightness": 0.32,
+      "kelvin": 3500
+    },
+    {
+      "hue": 199,
+      "saturation": 0.22,
+      "brightness": 0.62,
+      "kelvin": 3500
+    },
+    {
+      "hue": 223,
+      "saturation": 0.22,
+      "brightness": 0.91,
+      "kelvin": 3500
+    },
+    {
+      "hue": 219,
+      "saturation": 0.29,
+      "brightness": 0.52,
+      "kelvin": 3500
+    },
+    {
+      "hue": 167,
+      "saturation": 0.62,
+      "brightness": 0.55,
+      "kelvin": 3500
+    },
+    {
+      "hue": 201,
+      "saturation": 0.76,
+      "brightness": 0.23,
+      "kelvin": 3500
+    }
+  ],
+  "Energizing": [
+    {
+      "hue": 0,
+      "saturation": 0.0,
+      "brightness": 1.0,
+      "kelvin": 9000
+    },
+    {
+      "hue": 205,
+      "saturation": 0.47,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 191,
+      "saturation": 0.89,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 242,
+      "saturation": 1.0,
+      "brightness": 0.42,
+      "kelvin": 3500
+    },
+    {
+      "hue": 180,
+      "saturation": 0.87,
+      "brightness": 0.27,
+      "kelvin": 3500
+    },
+    {
+      "hue": 0,
+      "saturation": 0.0,
+      "brightness": 0.3,
+      "kelvin": 9000
+    }
+  ],
+  "Epic": [
+    {
+      "hue": 226,
+      "saturation": 1.0,
+      "brightness": 0.96,
+      "kelvin": 3500
+    },
+    {
+      "hue": 233,
+      "saturation": 1.0,
+      "brightness": 0.49,
+      "kelvin": 3500
+    },
+    {
+      "hue": 184,
+      "saturation": 0.6,
+      "brightness": 0.57,
+      "kelvin": 3500
+    },
+    {
+      "hue": 249,
+      "saturation": 0.29,
+      "brightness": 0.95,
+      "kelvin": 3500
+    },
+    {
+      "hue": 261,
+      "saturation": 0.84,
+      "brightness": 0.58,
+      "kelvin": 3500
+    },
+    {
+      "hue": 294,
+      "saturation": 0.78,
+      "brightness": 0.51,
+      "kelvin": 3500
+    }
+  ],
+  "Exciting": [
+    {
+      "hue": 0,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 40,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 60,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 122,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 239,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 271,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 294,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    }
+  ],
+  "Focusing": [
+    {
+      "hue": 338,
+      "saturation": 0.38,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 42,
+      "saturation": 0.36,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 52,
+      "saturation": 0.21,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 0,
+      "saturation": 0.0,
+      "brightness": 1.0,
+      "kelvin": 9000
+    },
+    {
+      "hue": 0,
+      "saturation": 0.0,
+      "brightness": 1.0,
+      "kelvin": 2500
+    }
+  ],
+  "Halloween": [
+    {
+      "hue": 31,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 32,
+      "saturation": 1.0,
+      "brightness": 0.6,
+      "kelvin": 2800
+    },
+    {
+      "hue": 32,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 4200
+    },
+    {
+      "hue": 33,
+      "saturation": 1.0,
+      "brightness": 0.6,
+      "kelvin": 4900
+    },
+    {
+      "hue": 33,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 2450
+    },
+    {
+      "hue": 34,
+      "saturation": 1.0,
+      "brightness": 0.7,
+      "kelvin": 2800
+    }
+  ],
+  "Hanukkah": [
+    {
+      "hue": 213,
+      "saturation": 0.52,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 219,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 0,
+      "saturation": 0.0,
+      "brightness": 0.32,
+      "kelvin": 7000
+    },
+    {
+      "hue": 199,
+      "saturation": 1.0,
+      "brightness": 0.34,
+      "kelvin": 3500
+    },
+    {
+      "hue": 232,
+      "saturation": 1.0,
+      "brightness": 0.35,
+      "kelvin": 3500
+    },
+    {
+      "hue": 225,
+      "saturation": 0.25,
+      "brightness": 0.13,
+      "kelvin": 3500
+    }
+  ],
+  "Holly": [
+    {
+      "hue": 117,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 116,
+      "saturation": 0.9,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 1,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 118,
+      "saturation": 1.0,
+      "brightness": 0.5,
+      "kelvin": 3500
+    },
+    {
+      "hue": 360,
+      "saturation": 1.0,
+      "brightness": 0.9,
+      "kelvin": 3500
+    }
+  ],
+  "Independence Day": [
+    {
+      "hue": 360,
+      "saturation": 0.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 360,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 240,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    }
+  ],
+  "Intense": [
+    {
+      "hue": 242,
+      "saturation": 0.75,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 300,
+      "saturation": 1.0,
+      "brightness": 0.87,
+      "kelvin": 3500
+    },
+    {
+      "hue": 164,
+      "saturation": 0.99,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 248,
+      "saturation": 1.0,
+      "brightness": 0.23,
+      "kelvin": 3500
+    }
+  ],
+  "Mellow": [
+    {
+      "hue": 359,
+      "saturation": 0.31,
+      "brightness": 0.59,
+      "kelvin": 3500
+    },
+    {
+      "hue": 315,
+      "saturation": 0.24,
+      "brightness": 0.82,
+      "kelvin": 3500
+    },
+    {
+      "hue": 241,
+      "saturation": 1.0,
+      "brightness": 0.4,
+      "kelvin": 3500
+    },
+    {
+      "hue": 256,
+      "saturation": 0.36,
+      "brightness": 0.5,
+      "kelvin": 3500
+    },
+    {
+      "hue": 79,
+      "saturation": 0.05,
+      "brightness": 0.4,
+      "kelvin": 3500
+    }
+  ],
+  "Peaceful": [
+    {
+      "hue": 198,
+      "saturation": 0.48,
+      "brightness": 0.11,
+      "kelvin": 3500
+    },
+    {
+      "hue": 2,
+      "saturation": 0.46,
+      "brightness": 0.85,
+      "kelvin": 3500
+    },
+    {
+      "hue": 54,
+      "saturation": 0.36,
+      "brightness": 0.85,
+      "kelvin": 3500
+    },
+    {
+      "hue": 4,
+      "saturation": 0.63,
+      "brightness": 0.56,
+      "kelvin": 3500
+    },
+    {
+      "hue": 203,
+      "saturation": 0.34,
+      "brightness": 0.56,
+      "kelvin": 3500
+    }
+  ],
+  "Powerful": [
+    {
+      "hue": 10,
+      "saturation": 0.99,
+      "brightness": 0.66,
+      "kelvin": 3500
+    },
+    {
+      "hue": 59,
+      "saturation": 0.7,
+      "brightness": 0.98,
+      "kelvin": 3500
+    },
+    {
+      "hue": 11,
+      "saturation": 0.99,
+      "brightness": 0.41,
+      "kelvin": 3500
+    },
+    {
+      "hue": 61,
+      "saturation": 0.44,
+      "brightness": 0.99,
+      "kelvin": 3500
+    },
+    {
+      "hue": 18,
+      "saturation": 0.98,
+      "brightness": 0.98,
+      "kelvin": 3500
+    },
+    {
+      "hue": 52,
+      "saturation": 0.88,
+      "brightness": 0.97,
+      "kelvin": 3500
+    },
+    {
+      "hue": 52,
+      "saturation": 0.88,
+      "brightness": 0.97,
+      "kelvin": 3500
+    }
+  ],
+  "Relaxing": [
+    {
+      "hue": 110,
+      "saturation": 0.95,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 71,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 123,
+      "saturation": 0.85,
+      "brightness": 0.33,
+      "kelvin": 3500
+    },
+    {
+      "hue": 120,
+      "saturation": 0.5,
+      "brightness": 0.1,
+      "kelvin": 3500
+    }
+  ],
+  "Santa": [
+    {
+      "hue": 0,
+      "saturation": 1.0,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 351,
+      "saturation": 0.05,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 2,
+      "saturation": 1.0,
+      "brightness": 0.58,
+      "kelvin": 3500
+    },
+    {
+      "hue": 0,
+      "saturation": 0.0,
+      "brightness": 0.52,
+      "kelvin": 6000
+    }
+  ],
+  "Serene": [
+    {
+      "hue": 179,
+      "saturation": 0.1,
+      "brightness": 0.91,
+      "kelvin": 3500
+    },
+    {
+      "hue": 215,
+      "saturation": 0.85,
+      "brightness": 0.98,
+      "kelvin": 3500
+    },
+    {
+      "hue": 205,
+      "saturation": 0.44,
+      "brightness": 0.37,
+      "kelvin": 3500
+    },
+    {
+      "hue": 94,
+      "saturation": 0.63,
+      "brightness": 0.25,
+      "kelvin": 3500
+    },
+    {
+      "hue": 100,
+      "saturation": 0.26,
+      "brightness": 0.42,
+      "kelvin": 3500
+    },
+    {
+      "hue": 132,
+      "saturation": 0.46,
+      "brightness": 0.88,
+      "kelvin": 3500
+    },
+    {
+      "hue": 211,
+      "saturation": 0.73,
+      "brightness": 0.97,
+      "kelvin": 3500
+    }
+  ],
+  "Soothing": [
+    {
+      "hue": 336,
+      "saturation": 0.18,
+      "brightness": 0.67,
+      "kelvin": 3500
+    },
+    {
+      "hue": 335,
+      "saturation": 0.5,
+      "brightness": 0.67,
+      "kelvin": 3500
+    },
+    {
+      "hue": 0,
+      "saturation": 0.0,
+      "brightness": 1.0,
+      "kelvin": 8000
+    },
+    {
+      "hue": 302,
+      "saturation": 0.69,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 330,
+      "saturation": 0.45,
+      "brightness": 0.58,
+      "kelvin": 3500
+    }
+  ],
+  "Sports": [
+    {
+      "hue": 59,
+      "saturation": 0.81,
+      "brightness": 0.96,
+      "kelvin": 3500
+    },
+    {
+      "hue": 120,
+      "saturation": 1.0,
+      "brightness": 0.96,
+      "kelvin": 3500
+    },
+    {
+      "hue": 120,
+      "saturation": 0.74,
+      "brightness": 1.0,
+      "kelvin": 3500
+    }
+  ],
+  "Spring": [
+    {
+      "hue": 184.0,
+      "saturation": 1.0,
+      "brightness": 0.5,
+      "kelvin": 3500
+    },
+    {
+      "hue": 299.0,
+      "saturation": 1.0,
+      "brightness": 0.5,
+      "kelvin": 3500
+    },
+    {
+      "hue": 49.0,
+      "saturation": 1.0,
+      "brightness": 0.5,
+      "kelvin": 3500
+    },
+    {
+      "hue": 198.0,
+      "saturation": 1.0,
+      "brightness": 0.5,
+      "kelvin": 3500
+    }
+  ],
+  "Tranquil": [
+    {
+      "hue": 0,
+      "saturation": 0.0,
+      "brightness": 0.0,
+      "kelvin": 8500
+    },
+    {
+      "hue": 205,
+      "saturation": 0.74,
+      "brightness": 0.96,
+      "kelvin": 3500
+    },
+    {
+      "hue": 203,
+      "saturation": 0.94,
+      "brightness": 0.96,
+      "kelvin": 3500
+    },
+    {
+      "hue": 241,
+      "saturation": 0.99,
+      "brightness": 1.0,
+      "kelvin": 3500
+    },
+    {
+      "hue": 37,
+      "saturation": 0.75,
+      "brightness": 0.99,
+      "kelvin": 3500
+    },
+    {
+      "hue": 43,
+      "saturation": 0.83,
+      "brightness": 0.53,
+      "kelvin": 3500
+    }
+  ],
+  "Warming": [
+    {
+      "hue": 4,
+      "saturation": 1.0,
+      "brightness": 0.76,
+      "kelvin": 3500
+    },
+    {
+      "hue": 42,
+      "saturation": 0.36,
+      "brightness": 0.96,
+      "kelvin": 3500
+    },
+    {
+      "hue": 355,
+      "saturation": 0.81,
+      "brightness": 0.86,
+      "kelvin": 3500
+    },
+    {
+      "hue": 44,
+      "saturation": 0.44,
+      "brightness": 0.65,
+      "kelvin": 3500
+    },
+    {
+      "hue": 51,
+      "saturation": 0.85,
+      "brightness": 0.59,
+      "kelvin": 3500
+    },
+    {
+      "hue": 0,
+      "saturation": 0.0,
+      "brightness": 0.3,
+      "kelvin": 3500
+    }
+  ]
+}
